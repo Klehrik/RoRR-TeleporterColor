@@ -1,4 +1,4 @@
-Changes the teleporter outline and particle colors.
+Changes the teleporter outline and particle colors.  
 Choose between Yellow (default), Cyan, Blue, White, or RGB.
 
 ---
