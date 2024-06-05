@@ -1,0 +1,10 @@
+﻿{
+	"name": "Teleporter_Color",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Klehrik/RoRR-TeleporterColor",
+	"description": "Changes the teleporter outline and particle colors.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.31",
+		"Klehrik-HelperFunctions-1.0.5"
+	]
+}
